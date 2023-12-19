@@ -9,7 +9,4 @@ public class Target {
     public Target() {
     }
 
-    public Target(long targetId) {
-        this.targetId = targetId;
-    }
 }
